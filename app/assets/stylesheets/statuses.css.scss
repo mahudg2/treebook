@@ -11,3 +11,13 @@
 	margin: 4px 0;
 	padding: 0 0;
 }
+.status .admin {
+	display: none;
+}
+.status.hover {
+	background: #F5F5F5;
+
+}
+.status.hover .admin {
+	display: inline;
+}
